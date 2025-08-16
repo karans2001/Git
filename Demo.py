@@ -1,2 +1,3 @@
-print("I LOVE BANGALORE")
+print("")
+
 
