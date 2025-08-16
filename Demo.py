@@ -1,5 +1,3 @@
-print("This is an added line!")
-
-
+print("Hello, VS Code!")
 
 
