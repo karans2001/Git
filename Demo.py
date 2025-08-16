@@ -1,4 +1,2 @@
-print("Hello again!")
-print("Hi WORLD")
-
+print("hi dog")
 
