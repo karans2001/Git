@@ -1,2 +1,1 @@
-print("Added a new line")
-print("I love Git")
+print("Added a new Line")
