@@ -1,6 +1,5 @@
+def greet():
+    print("Hello, VS Code!")   # committed
+    print("This is an added line!")  # committed
 
-print("created a new line")
-
-
-
-
+greet()
